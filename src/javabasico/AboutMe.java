@@ -1,4 +1,4 @@
-package com.javabasico;
+package javabasico;
 
 import java.util.InputMismatchException;
 import java.util.Locale;

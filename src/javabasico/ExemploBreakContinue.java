@@ -1,4 +1,4 @@
-package com.javabasico;
+package javabasico;
 
 public class ExemploBreakContinue {
     public static void main(String[] args) {

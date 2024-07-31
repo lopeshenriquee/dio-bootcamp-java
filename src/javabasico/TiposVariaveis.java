@@ -1,4 +1,4 @@
-package com.javabasico;
+package javabasico;
 
 
 public class TiposVariaveis {

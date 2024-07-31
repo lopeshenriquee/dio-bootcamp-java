@@ -1,4 +1,4 @@
-package com.javabasico;
+package javabasico;
 
 import java.util.concurrent.ThreadLocalRandom;
 

@@ -1,4 +1,4 @@
-package com.javabasico;
+package javabasico;
 
 public class Usuario {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.javabasico;
+package javabasico;
 
 public class ExemploForArray {
     public static void main(String[] args) {

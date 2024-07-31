@@ -1,4 +1,4 @@
-package com.desafios;
+package desafios;
 
 /*
 PRograma calcula salário e imprime pro funcionário
