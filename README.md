@@ -8,6 +8,5 @@ O Bootcamp **GFT - Desenvolvimento Java com IA** é uma iniciativa focada no des
 - **Orientação a Objetos**: Abordagem completa sobre POO, com implementação prática em Java.
 - **Desenvolvimento Web com Java**: Utilização de frameworks como Spring Boot para criar aplicações web robustas.
 - **Banco de Dados**: Integração de aplicações Java com bancos de dados relacionais e NoSQL.
-- **Inteligência Artificial**: Implementação de algoritmos de IA e Machine Learning, utilizando bibliotecas e ferramentas específicas.
 - **DevOps e Integração Contínua**: Práticas de CI/CD aplicadas ao desenvolvimento Java.
 - **Projetos Práticos**: Desenvolvimento de projetos que simulam cenários reais no mercado de trabalho.
