@@ -1,5 +1,8 @@
 # Bootcamp GFT - Desenvolvimento Java com IA
 
+## Descrição
+O Bootcamp **GFT - Desenvolvimento Java com IA** é uma iniciativa focada no desenvolvimento de habilidades em Java, com ênfase na integração com Inteligência Artificial (IA). Organizado pela GFT em parceria com a Digital Innovation One (DIO), este programa visa capacitar desenvolvedores para trabalhar com tecnologias modernas, incluindo IA, Machine Learning e frameworks populares no ecossistema Java.
+
 ## Conteúdos Abordados
 - **Fundamentos de Java**: Introdução à linguagem Java, seus conceitos básicos e boas práticas de programação.
 - **Orientação a Objetos**: Abordagem completa sobre POO, com implementação prática em Java.
